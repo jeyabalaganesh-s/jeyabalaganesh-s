@@ -63,86 +63,86 @@ API Integrations
 
 ---
 
+
 <!-- ============== TECH ARSENAL ============== -->
 
-<h2 align="left">
-  <code>02 / TECH ARSENAL</code>
-</h2>
+<h2><code>02 / TECH ARSENAL</code></h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 / PROGRAMMING LANGUAGES</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark&perline=4" />
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 / FRONTEND ENGINEERING</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark&perline=5" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 / BACKEND ENGINEERING</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,flask&theme=dark&perline=5" />
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 / DATABASE SYSTEMS</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark&perline=4" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<!-- PROGRAMMING LANGUAGES -->
-<img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-B7FF5A?style=for-the-badge&labelColor=101510&color=B7FF5A" />
+<h3>05 / AI & INTELLIGENT APPLICATIONS</h3>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark" />
-
-<br/><br/>
-
-<!-- FRONTEND -->
-<img src="https://img.shields.io/badge/02-FRONTEND_ENGINEERING-FF963C?style=for-the-badge&labelColor=101510&color=FF963C" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
-
-<br/><br/>
-
-<!-- BACKEND -->
-<img src="https://img.shields.io/badge/03-BACKEND_ENGINEERING-B7FF5A?style=for-the-badge&labelColor=101510&color=B7FF5A" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,flask&theme=dark" />
-
-<br/><br/>
-
-<!-- DATABASE -->
-<img src="https://img.shields.io/badge/04-DATABASE_SYSTEMS-FF963C?style=for-the-badge&labelColor=101510&color=FF963C" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" />
-
-<br/><br/>
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/05-AI_&_LLM_ENGINEERING-B7FF5A?style=for-the-badge&labelColor=101510&color=B7FF5A" />
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/langchain/B7FF5A" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chroma/B7FF5A" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LANGCHAIN-101510?style=for-the-badge&logo=chainlink&logoColor=B7FF5A"/>
-<img src="https://img.shields.io/badge/RAG-101510?style=for-the-badge&logoColor=B7FF5A"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-101510?style=for-the-badge&logo=chainlink&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/OPENAI_API-101510?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CHROMADB-101510?style=for-the-badge&logoColor=B7FF5A"/>
+<img src="https://img.shields.io/badge/RAG-101510?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CHROMADB-101510?style=for-the-badge&logoColor=FFFFFF"/>
 
 <br/><br/>
 
-<!-- DEVELOPMENT TOOLS -->
-<img src="https://img.shields.io/badge/06-DEVELOPMENT_TOOLS-FF963C?style=for-the-badge&labelColor=101510&color=FF963C" />
+<img src="https://img.shields.io/badge/WHATSAPP_CLOUD_API-101510?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TELEGRAM_BOT_API-101510?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>06 / DEVELOPMENT TOOLS</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark&perline=6" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUILD-B7FF5A?style=flat-square&labelColor=101510"/>
-<img src="https://img.shields.io/badge/CREATE-FF963C?style=flat-square&labelColor=101510"/>
-<img src="https://img.shields.io/badge/INNOVATE-B7FF5A?style=flat-square&labelColor=101510"/>
+<img src="https://img.shields.io/badge/BUILD-FFFFFF?style=for-the-badge&labelColor=101010&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CREATE-FFFFFF?style=for-the-badge&labelColor=101010&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/INNOVATE-FFFFFF?style=for-the-badge&labelColor=101010&logoColor=FFFFFF"/>
 
 </div>
 
