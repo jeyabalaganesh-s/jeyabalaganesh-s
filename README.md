@@ -1,251 +1,214 @@
 
-<!-- ========================================== -->
-<!-- JEYABALAGANESH S - GITHUB PROFILE README   -->
-<!-- ========================================== -->
+<!-- ========================================= -->
+<!-- JEYABALAGANESH S | NEON TERMINAL EDITION -->
+<!-- ========================================= -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=220&section=header&text=JEYABALAGANESH%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Application%20Developer&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050505,35:142313,70:5B9B25,100:FF8C32&text=JEYABALAGANESH%20S&fontSize=46&fontColor=E7FFB5&stroke=9BFF45&strokeWidth=1&animation=fadeIn&fontAlignY=48&desc=FULL%20STACK%20%7C%20AI%20APPLICATION%20DEVELOPER&descSize=14&descColor=FFAC62&descAlignY=68" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;MERN+Stack+Developer+%F0%9F%9A%80;PHP+Developer+%F0%9F%92%BB;AI+Application+Developer+%F0%9F%A4%96;Building+Ideas+Into+Applications+%E2%9A%A1" alt="Typing SVG" />
+<br/>
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=B7FF5A&center=true&vCenter=true&width=700&lines=Python+Developer+%2F+MERN+Developer;PHP+Developer+%2F+AI+Builder;Building+Intelligent+Applications;Turning+Ideas+Into+Real+Products" />
 
-  <img src="https://komarev.com/ghpvc/?username=jeyabalaganesh-s&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge" />
+<br/><br/>
 
-  <a href="https://github.com/jeyabalaganesh-s?tab=followers">
-    <img src="https://img.shields.io/github/followers/jeyabalaganesh-s?label=Followers&style=for-the-badge&color=7B2FF7" />
-  </a>
+<a href="https://jeyabalaganesh.site/">
+<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=googlechrome&logoColor=B7FF5A&labelColor=182312"/>
+</a>
+<a href="https://www.linkedin.com/in/jeyabalaganesh-s/">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00A9FF&labelColor=182312"/>
+</a>
+<a href="https://github.com/jeyabalaganesh-s">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=182312"/>
+</a>
 
-  <a href="https://github.com/jeyabalaganesh-s">
-    <img src="https://img.shields.io/github/stars/jeyabalaganesh-s?label=Stars&style=for-the-badge&color=00D4FF" />
-  </a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jeyabalaganesh-s&style=for-the-badge&color=8BCF39&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / WHO AM I`
 
-```python
-class Jeyabalaganesh:
-    def __init__(self):
-        self.name = "Jeyabalaganesh S"
-        self.role = "Full Stack Developer"
-        self.education = "MCA Graduate"
+```bash
+$ whoami
+Jeyabalaganesh S
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "PHP"
-        ]
+$ role
+Full Stack Developer | AI Application Developer
 
-        self.backend = [
-            "Django",
-            "FastAPI",
-            "Node.js",
-            "Express.js"
-        ]
+$ education
+MCA Graduate
 
-        self.frontend = [
-            "React",
-            "HTML",
-            "CSS",
-            "Tailwind CSS"
-        ]
+$ location
+Tamil Nadu, India
 
-        self.ai_technologies = [
-            "LangChain",
-            "RAG",
-            "ChromaDB",
-            "OpenAI API"
-        ]
-
-        self.current_focus = [
-            "AI-Powered Applications",
-            "Full Stack Development",
-            "Backend Engineering"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = Jeyabalaganesh()
-me.say_hi()
+$ interests
+Web Development
+Backend Engineering
+AI-Powered Applications
+API Integrations
 ```
 
-- 🔭 Building full-stack web applications and AI-powered solutions.
-- 🤖 Exploring Generative AI, LangChain and RAG.
-- 💻 Interested in Python, MERN Stack and PHP development.
-- 🚀 Enjoy integrating APIs and solving real-world problems.
-- 🌱 Always learning and improving my development skills.
+> I build practical software solutions by combining backend engineering, modern frontend technologies, and AI-powered capabilities.
+
+- 🐍 Developing applications with Python and Django.
+- ⚛️ Building modern interfaces with React.
+- 🌐 Working with the MERN stack and PHP.
+- 🤖 Exploring LangChain, RAG and Generative AI.
+- 🔌 Integrating third-party APIs into real-world applications.
 
 ---
 
-## 🚀 Featured Projects
+## `02 / TECH ARSENAL`
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark" />
+
+### FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+
+### BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,flask&theme=dark" />
+
+### DATABASE SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" />
+
+### AI & DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LANGCHAIN-101510?style=for-the-badge&logo=chainlink&logoColor=B7FF5A"/>
+<img src="https://img.shields.io/badge/RAG-101510?style=for-the-badge&logoColor=B7FF5A"/>
+<img src="https://img.shields.io/badge/OPENAI-101510?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CHROMADB-101510?style=for-the-badge&logoColor=B7FF5A"/>
+
+</div>
+
+---
+
+## `03 / SELECTED PROJECTS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-EMPLOYEE_AI_ASSISTANT-17230F?style=for-the-badge&labelColor=050505"/>
+</div>
 
 ### 🤖 Employee AI Assistant
 
-A WhatsApp-based AI chatbot that answers employee questions using company policy documents and RAG.
+**WhatsApp-Based Company Policy Assistant**
 
-**Tech Stack:**
-- Python
-- Django
-- LangChain
-- RAG
-- ChromaDB
-- OpenAI API
-- WhatsApp Cloud API
+An AI-powered chatbot that helps employees find information from company policies and internal knowledge documents using Retrieval-Augmented Generation.
 
-</td>
-<td width="50%">
+**Built with:**
+
+`Python` `Django` `LangChain` `RAG` `ChromaDB` `OpenAI API` `WhatsApp Cloud API`
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/02-CITIZEN_CARE-38200D?style=for-the-badge&labelColor=050505"/>
+</div>
 
 ### 🏛️ Citizen Care
 
-A Telegram-based complaint collection application that allows users to submit complaints with supporting evidence.
+**Telegram-Based Complaint Collection Application**
 
-**Tech Stack:**
-- Python
-- Django
-- Telegram Bot API
-- OpenAI API
+A complaint collection application that allows users to submit complaints along with supporting evidence through a Telegram bot, with OpenAI API integration.
 
-</td>
-</tr>
+**Built with:**
 
-<tr>
-<td width="50%">
+`Python` `Django` `Telegram Bot API` `OpenAI API`
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/03-HEALTHCARE_CRM-17230F?style=for-the-badge&labelColor=050505"/>
+</div>
 
 ### 🏥 Healthcare CRM
 
-A healthcare CRM application for managing patient information and business workflows.
+**Healthcare Management Application**
 
-**Tech Stack:**
-- React
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
+A healthcare CRM application focused on patient information, lead management, appointments and treatment workflows.
 
-</td>
-<td width="50%">
+**Built with:**
 
-### 💡 More Projects
-
-Explore my repositories for additional projects involving:
-
-- Python Development
-- MERN Stack
-- PHP Applications
-- Web Development
-- API Integrations
-
-<a href="https://github.com/jeyabalaganesh-s?tab=repositories">Explore All Repositories →</a>
-
-</td>
-</tr>
-</table>
+`React` `TypeScript` `Node.js` `Express.js` `MongoDB`
 
 ---
-
-## ⚡ Tech Stack
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,flask" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
-</p>
-
-### AI & Machine Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
-
----
-
-## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeyabalaganesh-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyabalaganesh-s&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=jeyabalaganesh-s&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/jeyabalaganesh-s?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-B7FF5A?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## `04 / GITHUB ANALYTICS`
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/jeyabalaganesh-s/jeyabalaganesh-s/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeyabalaganesh-s&show_icons=true&theme=transparent&hide_border=true&title_color=B7FF5A&icon_color=FF963C&text_color=C9D1D9&ring_color=B7FF5A"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyabalaganesh-s&layout=compact&theme=transparent&hide_border=true&title_color=B7FF5A&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=jeyabalaganesh-s&theme=transparent&hide_border=true&ring=B7FF5A&fire=FF963C&currStreakLabel=B7FF5A&sideLabels=C9D1D9&dates=888888"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `05 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-  <a href="https://jeyabalaganesh.site/">
-    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
+<img src="https://raw.githubusercontent.com/jeyabalaganesh-s/jeyabalaganesh-s/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-  <a href="https://www.linkedin.com/in/jeyabalaganesh-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</div>
 
-  <a href="https://github.com/jeyabalaganesh-s">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+---
 
-  <a href="mailto:jeyabalaganesh2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+## `06 / CONNECT`
 
-  <br/><br/>
+<div align="center">
 
-  ### 💬 Let's Build Something Amazing Together!
+<a href="https://jeyabalaganesh.site/">
+<img src="https://img.shields.io/badge/WEBSITE-B7FF5A?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:090979&height=120&section=footer" width="100%" />
+<a href="https://www.linkedin.com/in/jeyabalaganesh-s/">
+<img src="https://img.shields.io/badge/LINKEDIN-182312?style=for-the-badge&logo=linkedin&logoColor=00A9FF"/>
+</a>
+
+<a href="https://github.com/jeyabalaganesh-s">
+<img src="https://img.shields.io/badge/GITHUB-182312?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:jeyabalaganesh2003@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-38200D?style=for-the-badge&logo=gmail&logoColor=FF963C"/>
+</a>
+
+<br/><br/>
+
+### `BUILD • LEARN • INNOVATE`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF963C,50:284519,100:050505&height=120&section=footer"/>
 
 </div>
