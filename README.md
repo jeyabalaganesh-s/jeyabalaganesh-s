@@ -70,7 +70,7 @@ API Integrations
 
 ## `02 / TECH ARSENAL`
 
-| 🟢 **01 / LANGUAGES** | 🟠 **02 / FRONTEND** | 🟢 **03 / BACKEND** | 🟠 **04 / DATABASE SYSTEMS** | 🟢 **05 / AI DEVELOPMENT** | 🟠 **06 / TOOLS & APIs** |
+| 🟢 **LANGUAGES** | 🟠 **FRONTEND** | 🟢 **BACKEND** | 🟠 **DATABASE SYSTEMS** | 🟢 **AI DEVELOPMENT** | 🟠 **TOOLS & APIs** |
 |:---|:---|:---|:---|:---|:---|
 | **Python**<br>JavaScript<br>TypeScript<br>PHP | **React.js**<br>HTML / CSS<br>Tailwind CSS<br>Bootstrap | **Django**<br>FastAPI<br>Node.js<br>Express.js / Flask |**MongoDB**<br>PostgreSQL<br>MySQL<br>SQLite | **LangChain**<br>RAG<br>OpenAI API<br>ChromaDB | **Git / GitHub**<br>VS Code / Postman<br>Docker / Linux<br>WhatsApp / Telegram API |
 
