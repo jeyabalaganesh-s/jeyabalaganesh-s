@@ -67,61 +67,18 @@ API Integrations
 <!-- ============== TECH ARSENAL ============== -->
 
 
-<h2><code>02 / TECH ARSENAL</code></h2>
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 / LANGUAGES</h3>
-      <strong>Python</strong><br/>
-      <strong>JavaScript</strong><br/>
-      <strong>TypeScript</strong><br/>
-      <strong>PHP</strong>
-    </td>
+## `02 / TECH ARSENAL`
 
-    <td width="33%" valign="top">
-      <h3>02 / FRONTEND</h3>
-      <strong>React.js</strong><br/>
-      <strong>HTML / CSS</strong><br/>
-      <strong>Tailwind CSS</strong><br/>
-      <strong>Bootstrap</strong>
-    </td>
+| 🟢 **01 / LANGUAGES** | 🟠 **02 / FRONTEND** | 🟢 **03 / BACKEND** |
+|:---|:---|:---|
+| **Python**<br>JavaScript<br>TypeScript<br>PHP | **React.js**<br>HTML / CSS<br>Tailwind CSS<br>Bootstrap | **Django**<br>FastAPI<br>Node.js<br>Express.js / Flask |
 
-    <td width="33%" valign="top">
-      <h3>03 / BACKEND</h3>
-      <strong>Django</strong><br/>
-      <strong>FastAPI</strong><br/>
-      <strong>Node.js</strong><br/>
-      <strong>Express.js / Flask</strong>
-    </td>
-  </tr>
+| 🟠 **04 / DATABASE SYSTEMS** | 🟢 **05 / AI DEVELOPMENT** | 🟠 **06 / TOOLS & APIs** |
+|:---|:---|:---|
+| **MongoDB**<br>PostgreSQL<br>MySQL<br>SQLite | **LangChain**<br>RAG<br>OpenAI API<br>ChromaDB | **Git / GitHub**<br>VS Code / Postman<br>Docker / Linux<br>WhatsApp / Telegram API |
 
-  <tr>
-    <td width="33%" valign="top">
-      <h3>04 / DATABASES</h3>
-      <strong>MongoDB</strong><br/>
-      <strong>PostgreSQL</strong><br/>
-      <strong>MySQL</strong><br/>
-      <strong>SQLite</strong>
-    </td>
-
-    <td width="33%" valign="top">
-      <h3>05 / AI DEVELOPMENT</h3>
-      <strong>LangChain</strong><br/>
-      <strong>RAG</strong><br/>
-      <strong>OpenAI API</strong><br/>
-      <strong>ChromaDB</strong>
-    </td>
-
-    <td width="33%" valign="top">
-      <h3>06 / TOOLS & APIs</h3>
-      <strong>Git / GitHub</strong><br/>
-      <strong>VS Code / Postman</strong><br/>
-      <strong>Docker / Linux</strong><br/>
-      <strong>WhatsApp / Telegram API</strong>
-    </td>
-  </tr>
-</table>
+---
 
 ---
 
