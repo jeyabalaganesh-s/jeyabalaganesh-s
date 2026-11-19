@@ -66,85 +66,62 @@ API Integrations
 
 <!-- ============== TECH ARSENAL ============== -->
 
+
 <h2><code>02 / TECH ARSENAL</code></h2>
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 / LANGUAGES</h3>
+      <strong>Python</strong><br/>
+      <strong>JavaScript</strong><br/>
+      <strong>TypeScript</strong><br/>
+      <strong>PHP</strong>
+    </td>
 
-<h3>01 / PROGRAMMING LANGUAGES</h3>
+    <td width="33%" valign="top">
+      <h3>02 / FRONTEND</h3>
+      <strong>React.js</strong><br/>
+      <strong>HTML / CSS</strong><br/>
+      <strong>Tailwind CSS</strong><br/>
+      <strong>Bootstrap</strong>
+    </td>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark&perline=4" />
-</div>
+    <td width="33%" valign="top">
+      <h3>03 / BACKEND</h3>
+      <strong>Django</strong><br/>
+      <strong>FastAPI</strong><br/>
+      <strong>Node.js</strong><br/>
+      <strong>Express.js / Flask</strong>
+    </td>
+  </tr>
 
-</td>
-<td width="50%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>04 / DATABASES</h3>
+      <strong>MongoDB</strong><br/>
+      <strong>PostgreSQL</strong><br/>
+      <strong>MySQL</strong><br/>
+      <strong>SQLite</strong>
+    </td>
 
-<h3>02 / FRONTEND ENGINEERING</h3>
+    <td width="33%" valign="top">
+      <h3>05 / AI DEVELOPMENT</h3>
+      <strong>LangChain</strong><br/>
+      <strong>RAG</strong><br/>
+      <strong>OpenAI API</strong><br/>
+      <strong>ChromaDB</strong>
+    </td>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark&perline=5" />
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 / BACKEND ENGINEERING</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,flask&theme=dark&perline=5" />
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04 / DATABASE SYSTEMS</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark&perline=4" />
-</div>
-
-</td>
-</tr>
+    <td width="33%" valign="top">
+      <h3>06 / TOOLS & APIs</h3>
+      <strong>Git / GitHub</strong><br/>
+      <strong>VS Code / Postman</strong><br/>
+      <strong>Docker / Linux</strong><br/>
+      <strong>WhatsApp / Telegram API</strong>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<h3>05 / AI & INTELLIGENT APPLICATIONS</h3>
-
-<img src="https://img.shields.io/badge/LANGCHAIN-101510?style=for-the-badge&logo=chainlink&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/OPENAI_API-101510?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/RAG-101510?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CHROMADB-101510?style=for-the-badge&logoColor=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/WHATSAPP_CLOUD_API-101510?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/TELEGRAM_BOT_API-101510?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h3>06 / DEVELOPMENT TOOLS</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUILD-FFFFFF?style=for-the-badge&labelColor=101010&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CREATE-FFFFFF?style=for-the-badge&labelColor=101010&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/INNOVATE-FFFFFF?style=for-the-badge&labelColor=101010&logoColor=FFFFFF"/>
-
-</div>
 
 ---
 
