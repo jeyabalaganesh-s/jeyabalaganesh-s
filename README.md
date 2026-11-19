@@ -63,36 +63,86 @@ API Integrations
 
 ---
 
-## `02 / TECH ARSENAL`
+<!-- ============== TECH ARSENAL ============== -->
+
+<h2 align="left">
+  <code>02 / TECH ARSENAL</code>
+</h2>
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+<!-- PROGRAMMING LANGUAGES -->
+<img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-B7FF5A?style=for-the-badge&labelColor=101510&color=B7FF5A" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php&theme=dark" />
 
-### FRONTEND ENGINEERING
+<br/><br/>
+
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/02-FRONTEND_ENGINEERING-FF963C?style=for-the-badge&labelColor=101510&color=FF963C" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
 
-### BACKEND ENGINEERING
+<br/><br/>
+
+<!-- BACKEND -->
+<img src="https://img.shields.io/badge/03-BACKEND_ENGINEERING-B7FF5A?style=for-the-badge&labelColor=101510&color=B7FF5A" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,flask&theme=dark" />
 
-### DATABASE SYSTEMS
+<br/><br/>
+
+<!-- DATABASE -->
+<img src="https://img.shields.io/badge/04-DATABASE_SYSTEMS-FF963C?style=for-the-badge&labelColor=101510&color=FF963C" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" />
 
-### AI & DEVELOPMENT TOOLS
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+<!-- AI -->
+<img src="https://img.shields.io/badge/05-AI_&_LLM_ENGINEERING-B7FF5A?style=for-the-badge&labelColor=101510&color=B7FF5A" />
 
-<br/>
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/langchain/B7FF5A" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/chroma/B7FF5A" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LANGCHAIN-101510?style=for-the-badge&logo=chainlink&logoColor=B7FF5A"/>
 <img src="https://img.shields.io/badge/RAG-101510?style=for-the-badge&logoColor=B7FF5A"/>
-<img src="https://img.shields.io/badge/OPENAI-101510?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OPENAI_API-101510?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CHROMADB-101510?style=for-the-badge&logoColor=B7FF5A"/>
+
+<br/><br/>
+
+<!-- DEVELOPMENT TOOLS -->
+<img src="https://img.shields.io/badge/06-DEVELOPMENT_TOOLS-FF963C?style=for-the-badge&labelColor=101510&color=FF963C" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILD-B7FF5A?style=flat-square&labelColor=101510"/>
+<img src="https://img.shields.io/badge/CREATE-FF963C?style=flat-square&labelColor=101510"/>
+<img src="https://img.shields.io/badge/INNOVATE-B7FF5A?style=flat-square&labelColor=101510"/>
 
 </div>
 
